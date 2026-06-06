@@ -1,18 +1,28 @@
-Hi, I'm Samir Simkhada 👋
+# Hi, I'm Samir Simkhada 👋
 
-🚀 Currently learning Python, Data Analysis, SQL, and Artificial Intelligence
+## About Me
 
-📚 Building projects every day and sharing my learning journey
+I'm currently learning:
 
-💡 Interested in:
-- Python Development
+- Python
+- SQL
 - Data Analysis
 - Artificial Intelligence
-- Automation
 
-🌍 Open to opportunities in the UAE
+My goal is to build practical projects and grow into a Python Developer and Data Analyst role.
 
-🔗 Portfolio:
-https://samirsimkhada.com.np
+## Current Focus
 
-📫 Connect with me on LinkedIn
+- Python Development
+- Data Analysis with Pandas
+- SQL
+- AI Projects
+
+## Portfolio
+
+🌐 https://samirsimkhada.com.np
+
+## Connect With Me
+
+💼 LinkedIn
+📧 Open to opportunities in the UAE
