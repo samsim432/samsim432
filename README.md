@@ -1,10 +1,18 @@
-- 👋 Hi, I’m @samsim432
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi, I'm Samir Simkhada 👋
 
-<!---
-samsim432/samsim432 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 Currently learning Python, Data Analysis, SQL, and Artificial Intelligence
+
+📚 Building projects every day and sharing my learning journey
+
+💡 Interested in:
+- Python Development
+- Data Analysis
+- Artificial Intelligence
+- Automation
+
+🌍 Open to opportunities in the UAE
+
+🔗 Portfolio:
+https://samirsimkhada.com.np
+
+📫 Connect with me on LinkedIn
